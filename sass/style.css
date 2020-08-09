@@ -1,8 +1,19 @@
 body {
-  background-color: black;
+  background-color: #8cb1ffec;
+  font-family: sans-serif;
 }
 
-body .title {
+header {
+  background: black;
+  height: 100px;
+}
+
+header .title {
+  color: #fff;
+  margin: 0;
+}
+
+header p {
   color: #fff;
 }
 /*# sourceMappingURL=style.css.map */
