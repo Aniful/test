@@ -30,4 +30,14 @@ header .header-menu {
   display: -ms-flexbox;
   display: flex;
 }
+
+header .header-menu .header-menu-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+header .header-menu .header-menu-link:hover {
+  text-decoration: underline;
+  color: yellow;
+}
 /*# sourceMappingURL=style.css.map */
